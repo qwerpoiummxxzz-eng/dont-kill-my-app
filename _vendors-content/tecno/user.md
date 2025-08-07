@@ -1,4 +1,5 @@
----
+تكنو 
+سبارك ---
 manufacturer:
     - tecno
 
